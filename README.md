@@ -1,2 +1,2 @@
-# Sundaykale
-sundaykale-kasir
+# SANDIKALE-project
+patner mewujudkan ide gila mu
